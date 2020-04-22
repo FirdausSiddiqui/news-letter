@@ -13,5 +13,13 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirdausSiddiqui/news-letter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FirdausSiddiqui/news-letter/issues"
+  },
+  "homepage": "https://github.com/FirdausSiddiqui/news-letter#readme",
   "description": ""
 }
